@@ -8,3 +8,12 @@ test-results
 *.user
 *.suo
 
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
